@@ -11,7 +11,7 @@ var Imagegrid = React.createClass({
         <div className="row">
          {this.state.imagestore.map(function(aImage, index){
             return (
-              <div key={index} className="col-md-6 col-sm-4 col-md-4">
+              <div key={index} className="col-xs-6 col-sm-4 col-md-4 col-lg-3">
                 <a href= {aImage.link}>
                   <img className="flickr-thumbnail" src={aImage.media.m }/>
                 </a>
