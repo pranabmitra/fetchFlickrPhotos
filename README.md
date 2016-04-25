@@ -5,4 +5,4 @@ To run the app:
 * npm install
 * gulp
 
-Then browser index.html from inside dist.
+Browse <i>index.html</i> from inside <b>dist</b>.
