@@ -1,0 +1,31 @@
+{
+  "name": "Reflux",
+  "version": "0.0.0",
+  "description": "A simple test in reflux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reflux"
+  ],
+  "author": "pranab",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "gulp": "^3.9.1",
+    "jquery": "^2.2.3",
+    "react-dom": "^15.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-browserify": "^0.5.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-rename": "^1.2.2",
+    "react": "^15.0.1",
+    "reactify": "^1.1.1",
+    "reflux": "^0.4.1"
+  }
+}
